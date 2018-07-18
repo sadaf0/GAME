@@ -1,0 +1,27 @@
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\bin\Debug\sadaf_Game.exe
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\bin\Debug\sadaf_Game.pdb
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\obj\x86\Debug\sadaf_Game.Form1.resources
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\obj\x86\Debug\sadaf_Game.Form2.resources
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\obj\x86\Debug\sadaf_Game.Properties.Resources.resources
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\obj\x86\Debug\sadaf_Game.csproj.GenerateResource.Cache
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\obj\x86\Debug\sadaf_Game.exe
+C:\Users\Ajnabeee\AppData\Local\Temporary Projects\sadaf_Game\obj\x86\Debug\sadaf_Game.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\bin\Debug\sadaf_Game.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\bin\Debug\sadaf_Game.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.Form1.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.Form2.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.Properties.Resources.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.csproj.GenerateResource.Cache
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\bin\Debug\sadaf_Game.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\bin\Debug\sadaf_Game.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.Form1.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.Form2.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.Properties.Resources.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.csprojResolveAssemblyReference.cache
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.csproj.GenerateResource.Cache
+D:\DVD WRITE ALL WORK\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.exe
+D:\DVD WRITE ALL WORK\sadaf_Game\sadaf_Game\obj\x86\Debug\sadaf_Game.pdb
